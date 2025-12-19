@@ -1,0 +1,16 @@
+<Config URL="http://client-kthan.resskiemthemobile.com/">
+  <CdnUrl Url="http://client-kthan.resskiemthemobile.com/" />
+  <Application VerText="KiemThan" VerCode="21" />
+  <Resource VerText="KiemThan" VerCode="128" />
+  <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
+  <Store AppsIosUrl="https://testflight.apple.com/join/BGrKlizt" AppsAndroidUrl="https://play.google.com/store/apps/details?id=com.kiemthan" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
+  <UpdateInfo 
+  PushVoiceUrl="http://160.22.160.118:883/ChatVoiceService.aspx" 
+  GetVoiceUrl="http://160.22.160.118:883/GetVoiceChat.aspx" 
+  ServerListUrl="http://160.22.160.118:883/GetServerListTest.aspx" 
+  ServerListUrlBackUp="http://160.22.160.118:883/GetServerListTest.aspx" 
+  VerifyAccountSDK="http://160.22.160.118:883/VerifyAccount.aspx" 
+  LoginAccountSDK="http://160.22.160.118:883/LoginSDK.aspx" 
+  RegisterAccountSDK="http://160.22.160.118:883/RegisterSDK.aspx" 
+  FileUpdateUrl="UpdateList.xml" />
+</Config>
