@@ -1,5 +1,5 @@
-<Config URL="http://client-ktm.resskiemthemobile.com/">
-  <CdnUrl Url="http://client-ktm.resskiemthemobile.com/" />
+<Config URL="http://15.235.229.111:882/">
+  <CdnUrl Url="http://15.235.229.111:882/" />
   <Application VerText="KiemThe" VerCode="21" />
   <Resource VerText="KiemThe" VerCode="128" />
   <LoadingResourceScreen FileName="Data/Resources/UI/LoadingResources.unity3d" MD5="d74fd7ea64e7e39d0761f3593d8955582" />
