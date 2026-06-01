@@ -1,0 +1,1 @@
+{"url":"http://103.56.164.158/jx2cdn/jx2mb_10phai/","url_7phai":"http://103.56.164.158/jx2cdn/jx2mb/","url_10phai":"http://103.56.164.158/jx2cdn/jx2mb_10phai/","version":33,"hide_button_web":0,"hide_button_orther":0}
